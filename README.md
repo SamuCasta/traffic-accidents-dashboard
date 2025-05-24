@@ -44,8 +44,8 @@ This Power BI project presents an interactive dashboard that visualizes car acci
 
 ## 📫 Contact
 
-Created by [Your Name].  
-Feel free to connect via GitHub or [LinkedIn](https://linkedin.com/in/yourprofile).
+Created by Samuel Castaño Mira.  
+Feel free to connect via GitHub or [LinkedIn](https://www.linkedin.com/in/samuel-casta%C3%B1o-596136314/).
 
 ---
 
